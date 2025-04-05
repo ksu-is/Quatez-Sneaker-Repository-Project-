@@ -5,4 +5,5 @@ Sneaker Flashcard Repository
 
 <a href="https://github.com/user-attachments/assets/05afcbf9-bd19-43b6-b095-c685e8e3b424)
 " target="blank">
-<img scr="https://github.com/user-attachments/assets/05afcbf9-bd19-43b6-b095-c685e8e3b424)
+<img scr="https://github.com/user-attachments/assets/05afcbf9-bd19-43b6-b095-c685e8e3b424)" alt="Clickable Image" />
+</a>
