@@ -4,8 +4,9 @@
 
 <![Image 4-5-25 at 10 36 AM](https://github.com/user-attachments/assets/91e4a342-4b85-4682-bc2a-acaecc3952e4)
 
-
-https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/Image%204-5-25%20at%2010.36%20AM.JPG
+<p align="center">
+<img src="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/Image%204-5-25%20at%2010.36%20AM.JPG" width=250>
+</p>
 
 
 
