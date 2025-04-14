@@ -1,4 +1,4 @@
-# Quatez-Sneaker-Repository-Project-
+Ready to Play?!
 Sneaker Flashcard Repository
 Ready to Play?!
 ![WelcomeScreen](https://github.com/user-attachments/assets/cd0e95b7-eb03-4529-b7f5-e342279b6c9e)
