@@ -11,15 +11,17 @@ def show_image():
   img = Image.open(BytesIO(img_data))
   img.show()
 
-def welcome_page():
+def main():
   root = tk.Tk() 
   root.title(" Sneaker Flash Card Game")
 
-label = tk.Label(root, text="Ready to Play?!", font=("Helvetica, 24))
-label.pack(pady=20)
+welcome_label = tk.Label(root, text "READY TO PLAY?!", font=("Helvetica", 24))
+welcome_label.pack(pady=20)
 
-start_button = tk.Button(root, text-"Click Here", command = root.quit font="Helvetica", 16))
-start_button.pack(pady=10
+click_here_button = tk.Button(root, text="Click Here", command=show_image)
+    click_here_button.pack(pady=10)
+
+
 
 root.mainloop()
 
