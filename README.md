@@ -13,7 +13,15 @@
 <img src="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/Image%204-5-25%20at%2010.36%20AM.JPG" width=750>
 </p>
 
-https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/IMG_9160.jpg
+<h2 align="center"> Sneaker Repository Project</h2> 
+
+<p align="center">
+<a href="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/IMG_9160.jpg">
+    <img src="https://img.shields.io/badge/View%20Yeezy%20Chart-black?style=for-the-badge&logo=sneaker&logoColor=white" alt="View Yeezy Chart">
+  </a>
+</p> 
+
+   
 
 
 
