@@ -13,7 +13,7 @@
 <img src="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/Image%204-5-25%20at%2010.36%20AM.JPG" width=750>
 </p>
 
-<h2 align="center"> Sneaker Repository Project</h2> 
+<h2 align="center"> 
 
 <p align="center">
 <a href="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/IMG_9160.jpg">
