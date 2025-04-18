@@ -8,7 +8,7 @@ def welcome_page():
 label = tk.Label(root, text="Ready to Play?!", font=("Helvetica, 24))
 label.pack(pady=20)
 
-start_button = tk.Button(root, text-"Start Game", command = root.quit font="Helvetica", 16))
+start_button = tk.Button(root, text-"Click Here", command = root.quit font="Helvetica", 16))
 start_button.pack(pady=10
 
 root.mainloop()
