@@ -21,6 +21,9 @@
   </a>
 </p> 
 
+<p align="center">
+  <img src="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/IMG_9160.jpg?raw=true" width="750">
+</p>
    
 
 
