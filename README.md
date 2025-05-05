@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-     <img scr="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/AirMax.jpg" width=750>
-     </p>
+  <img src="https://raw.githubusercontent.com/ksu-is/Quatez-Sneaker-Repository-Project-/main/AirMax.jpg" width=750>
+</p>
   
 
 
