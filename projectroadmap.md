@@ -8,4 +8,16 @@ Center of Alignment of Welcome Screen using Markdown
 
 Center Alighment of Jordan Screen using Markdown
 
+Screenshot of Yeezy Shoes uploaded to repository
+
+"Click Here" and "View Yeezys" Buttons added to readme file
+
+Center alighment of Yeezy Shoes using markdown
+
 Python Code File Added
+
+PIL downloaded to computer to be able to use "show_image" command
+
+Python Code using LS in terminal
+
+Python Code function allows "click here" button to show up. Once you click the button, the welcome screen appears
