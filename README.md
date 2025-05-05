@@ -26,8 +26,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ksu-is/Quatez-Sneaker-Repository-Project-/main/AirMax.jpg" width=750>
+  <a href="https://github.com/ksu-is/Quatez-Sneaker-Repository-Project-/blob/main/AirMax.jpg">
+    <img src="https://img.shields.io/badge/View%20Airmax%20Chart-black?style=for-the-badge&logo=sneaker&logoColor=white" alt="View Airmax Chart">
+  </a>
 </p>
+
   
 
 
