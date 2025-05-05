@@ -1,25 +1,29 @@
-Welcome Screen of Code is initiated
+# Welcome Screen of Code is initiated
 
-Button was added to homescreen MD readme file
+# Button was added to homescreen MD readme file
 
-Screenshots of Jordan Shoe Collection uploaded to repository
+# Screenshots of Jordan Shoe Collection uploaded to repository
 
-Center of Alignment of Welcome Screen using Markdown
+# Center of Alignment of Welcome Screen using Markdown
 
-Center Alighment of Jordan Screen using Markdown
+# Center Alighment of Jordan Screen using Markdown
 
-Screenshot of Yeezy Shoes uploaded to repository
+# Screenshot of Yeezy Shoes uploaded to repository
 
-"Click Here" and "View Yeezys" Buttons added to readme file
+# "Click Here" and "View Yeezys" Buttons added to readme file
 
-Center alighment of Yeezy Shoes using markdown
+# Center alighment of Yeezy Shoes using markdown
 
-Python Code File Added
+# Airmax Shoe Chart was added
 
-PIL downloaded to computer to be able to use "show_image" command
+# Airmax Shoe Chart center alignment and biutton added
 
-Font commands added to python code file
+# Python Code File Added
 
-Python Code using LS in terminal
+# PIL downloaded to computer to be able to use "show_image" command
 
-Python Code function allows "click here" button to show up. Once you click the button, the welcome screen appears
+# Font commands added to python code file
+
+# Python Code using LS in terminal
+
+# Python Code function allows "click here" button to show up. Once you click the button, the welcome screen appears
